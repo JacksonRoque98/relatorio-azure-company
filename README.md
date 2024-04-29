@@ -12,4 +12,5 @@ Banco de dados relacional utilizado para armazenar e gerenciar nossos dados.
 ### Power BI 
 Ferramenta de business intelligence utilizada para análise e visualização de dados, com o Power Query utilizado para o tratamento dos dados.
 
-Nas imagens estou demonstrando os dados que realizei a mesclagem como foi solicitado no desafio da DIO.
+
+#### Nas imagens estou demonstrando os dados que realizei a mesclagem como foi solicitado no desafio da DIO.
